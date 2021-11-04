@@ -1,0 +1,43 @@
+div, a, p, input, h1, h2, li, ul, form{
+    box-sizing: border-box;
+}
+h1 {
+    color: red;
+}
+
+p.new {
+    color: white;
+    background: blue;
+    width: 130px;
+}
+
+p.top {
+    margin-top: 100px;
+}
+
+p span {
+    color: red;
+}    
+
+h2 {
+    color: white;
+    background: #197714;
+    height: 50px;
+    padding: 10px
+}
+
+h2.new {
+    height: 150px;
+    padding: 58px;
+}
+
+p.indent {
+    padding-left: 70px;
+} 
+
+.border {
+    border: 2px solid black;
+    font-size: 30px;
+}
+
+
